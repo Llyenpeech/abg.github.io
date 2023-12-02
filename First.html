@@ -2091,7 +2091,6 @@ Marie Simmons ˗ New York
 </div>
 </div></div></div>
 
-
 </div>
 <div class="wrap-slick3-dots m-t-30"><ul class="slick3-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control20" aria-controls="slick-slide20" aria-label="1 of 3" tabindex="-1" fdprocessedid="6ssulc">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control21" aria-controls="slick-slide21" aria-label="2 of 3" tabindex="-1" fdprocessedid="0n2uz4m">2</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control22" aria-controls="slick-slide22" aria-label="3 of 3" tabindex="0" fdprocessedid="kgbunh" aria-selected="true">3</button></li></ul></div>
 <button class="arrow-slick3 next-slick3 slick-arrow" style=""><i class="fa fa-angle-right" aria-hidden="true"></i></button></div>
